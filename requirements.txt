@@ -1,0 +1,26 @@
+# Core
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Frontend
+streamlit==1.28.1
+requests==2.31.0
+
+# ML & Processing
+faster-whisper==0.9.1
+paddleocr==2.7.0.3
+paddlepaddle==2.5.1
+transformers==4.34.0
+torch==2.0.1
+numpy==1.24.3
+scipy==1.11.3
+librosa==0.10.0
+soundfile==0.12.1
+TTS==0.21.2
+
+# Utilities
+opencv-python==4.8.1.78
+pillow==10.0.1
+pydantic==2.4.2
